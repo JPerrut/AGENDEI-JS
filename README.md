@@ -1,0 +1,1 @@
+This project is designed for scheduling medical appointments, where both healthcare professionals and clients can register and access the application. Healthcare professionals provide their qualifications and consultation fees, while clients can search for professionals and their respective areas of expertise to conveniently schedule appointments.
