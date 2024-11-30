@@ -38,6 +38,7 @@ export const styles = {
   icon: {
     width: 25,
     height: 25,
+    marginRight: 5
   },
 
   bookingDate: {
@@ -53,7 +54,8 @@ export const styles = {
   },
 
   containerButton: {
-    marginTop: 6,
+    marginTop: 4,
+    width: '50%',
   },
 
 }
